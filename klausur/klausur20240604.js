@@ -6,7 +6,7 @@ console.log("Klausur 20240604")
 
 console.log("Aufgabe 1")
 // 1a) Berechnen Sie das Volumen eines Würfels mit Hilfe der Grundrechenoperatoren (+ , - , * , /) , bei dem die Kantenlänge mit der Varablen a festgelegt wird.
-
+a=2    2*2*2=8  Volumen=8cm³   
 
 
 // 1b) - Nur Klausurschreiber
@@ -33,22 +33,26 @@ console.log("Aufgabe 2")
 
 
 // 2b)
-// Berechnen Sie Flächeninhalt.
+Radius= 3cm
+Pi= 3.14
 
+
+// Berechnen Sie Flächeninhalt.
+3.14*3²=28.26cm²
 
 
 
 
 // 2c)
 // Berechnen Sie den Umfang
-
+2*3.14*3=18.84cm
 
 
 
 
 // 2d)
 // Berechnen Sie den Durchmesser
-
+2*3cm=6cm
 
 
 
